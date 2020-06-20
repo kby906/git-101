@@ -1,0 +1,13 @@
+body{
+	margin: 0px;
+	display: flex;
+}
+
+h1{
+	font-family: Renner;
+}
+
+img{
+	width: 200px;
+	height: auto;
+}
